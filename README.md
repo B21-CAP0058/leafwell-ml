@@ -2,20 +2,20 @@
 Machine learning - project bangkit by bangjek team
 
 #To run the training.ipynb:
-    1. Preparation:
-    To make the data readable by the training.ipynb, make sure to setup your files structure like below:
-    - Your Current Dir:
-      - training.ipnyb
-      - Dataset Medicinal:
-        - leaf_dataset.zip (zip yang didownload dari mendeley) 
+1. Preparation:
+   To make the data readable by the training.ipynb, make sure to setup your files structure like below:
+   - Your Current Dir:
+     - training.ipnyb
+     - Dataset Medicinal:
+       - leaf_dataset.zip (zip yang didownload dari mendeley) 
 
-      Keterangan:
-      1). Put training.ipynb and Folder 'Dataset Medicinal' in one Folder.
-      2). Put 'leaf_dataset.zip' in folder 'Dataset Medicinal'.
-
-    2. Tools: Use Jupyter Notebook to run the program.
-    3. Test the saved model by running "Uji Model.ipynb".
-    4. Convert the model to tflite by running "Convert Model to TFLite.ipynb".
+   Keterangan:
+    1). Put training.ipynb and Folder 'Dataset Medicinal' in one Folder.
+    2). Put 'leaf_dataset.zip' in folder 'Dataset Medicinal'.
+   
+2. Tools: Use Jupyter Notebook to run the program.
+3. Test the saved model by running "Uji Model.ipynb".
+4. Convert the model to tflite by running "Convert Model to TFLite.ipynb".
 
 
 #Documentation of ML model development :
