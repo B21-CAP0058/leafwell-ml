@@ -1,12 +1,16 @@
 # ml-bangjek
 Machine learning projek bangkit oleh bangjek
 
-Agar dataset terbaca, gunakan struktur folder dan file sebagai berikut:
+1. Preparation:
+To make the data readable by the training.ipynb, make sure to setup your files structure like below:
 - Your Current Dir:
-  - main.ipnyb
+  - training.ipnyb
   - Dataset Medicinal:
-    - dataset_medicinal_leaf.zip (zip yang didownload dari mendeley) 
+    - leaf_dataset.zip (zip yang didownload dari mendeley) 
 
-Keterangan:
-1. Letakkan main.ipynb dan Folder 'Dataset Medicinal' dalam satu Folder.
-2. Letakkan 'dataset_medicinal_leaf.zip' ke dalam folder 'Dataset Medicinal'. (Jangan lupa untuk rename datasetnya menjadi 'dataset_medicinal_leaf.zip')
+  Keterangan:
+  1). Letakkan training.ipynb dan Folder 'Dataset Medicinal' dalam satu Folder.
+  2). Letakkan 'leaf_dataset.zip' ke dalam folder 'Dataset Medicinal'.
+  
+2. Tools: Use Jupyter Notebook.
+
